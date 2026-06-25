@@ -7,7 +7,7 @@ const button = document.getElementById("sendBtn");
 form.addEventListener("submit", function (e) {
 
     e.preventDefault();
-
+    
     button.innerHTML = "Sending...";
 
     emailjs.send("service_rhhd9m4", "template_5iaupsm", {
