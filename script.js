@@ -54,5 +54,5 @@ document.querySelectorAll(".glass-card")[4].addEventListener("click", function (
 });
 
 document.querySelectorAll(".glass-card")[5].addEventListener("click", function () {
-  window.open("https://drive.google.com/uc?export=download&id=1oxr68Ex8ZkHvuLl4u7tbLViBFn05pUvk", "_blank");
+  window.open("https://drive.google.com/uc?export=download&id=1oxr68Ex8ZkHvuLl4u7tbLViBFn05pUvk" target="_blank" class="edu-link");
 });
