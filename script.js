@@ -5,7 +5,7 @@ const status = document.getElementById("status");
 const button = document.getElementById("sendBtn");
 
 form.addEventListener("submit", function (e) {
-
+    
     e.preventDefault();
     
     button.innerHTML = "Sending...";
