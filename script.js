@@ -54,5 +54,8 @@ document.querySelectorAll(".glass-card")[4].addEventListener("click", function (
 });
 
 function openMatric() {
-  window.open("https://raw.githubusercontent.com/username/portfolio-files/main/matric.pdf", "_blank");
+  window.open(
+    "https://raw.githubusercontent.com/Shubhamsoni60/PORTFOLIO-FILES/main/WhatsApp%20Image%202026-06-26%20at%202.45.38%20AM.pdf",
+    "_blank"
+  );
 }
